@@ -1,0 +1,10 @@
+#this file tells git to ignore certian files
+
+#files created when vim crashes
+*.swp
+
+#log reports
+*.log
+
+#directories
+*/
